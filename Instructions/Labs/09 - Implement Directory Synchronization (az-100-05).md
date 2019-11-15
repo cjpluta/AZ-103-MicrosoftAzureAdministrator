@@ -82,7 +82,7 @@ The main tasks for this exercise are as follows:
 
     - Dns Prefix: the &lt;custom-label&gt; you identified in the previous task
     
-    - VM Size: **Standard_D2s_v3**
+    - VM Size: **Standard_D2s_v2**
 
     - _artifacts Location: accept the default value
 
